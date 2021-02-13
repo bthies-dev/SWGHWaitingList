@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="c:\users\b128587\documents\visual studio 2010\Projects\SWGHWaitingList\SWGHWaitingList\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="c:\users\b128587\documents\visual studio 2010\Projects\SWGHWaitingList\SWGHWaitingList\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="c:\users\b128587\documents\visual studio 2010\Projects\SWGHWaitingList\SWGHWaitingList\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
