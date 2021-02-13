@@ -6,33 +6,33 @@ SWGHWaitingList
 </name>
 </assembly>
 <members>
-<member name="F:SWGHWaitingList.WebForm1.form1">
+<member name="F:SWGHWaitingList.Site.HeadContent">
 	<summary>
-form1 control.
+HeadContent control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList.ChangePassword.ChangeUserPassword">
+</member><member name="F:SWGHWaitingList.Site.HeadLoginView">
 	<summary>
-ChangeUserPassword control.
+HeadLoginView control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList.Login.RegisterHyperLink">
+</member><member name="F:SWGHWaitingList.Site.NavigationMenu">
 	<summary>
-RegisterHyperLink control.
+NavigationMenu control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList.Login.LoginUser">
+</member><member name="F:SWGHWaitingList.Site.MainContent">
 	<summary>
-LoginUser control.
+MainContent control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -78,6 +78,14 @@ Button1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:SWGHWaitingList.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="P:SWGHWaitingList.My.MyWebExtension.Application">
 	<summary>
  Returns information about the current application.
@@ -111,54 +119,6 @@ To modify move field declaration from designer file to code-behind file.
  Module used to define the properties that are available in the My Namespace for Web projects.
  </summary>
 	<remarks></remarks>
-</member><member name="F:SWGHWaitingList.Register.RegisterUser">
-	<summary>
-RegisterUser control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Register.RegisterUserWizardStep">
-	<summary>
-RegisterUserWizardStep control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.HeadContent">
-	<summary>
-HeadContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.HeadLoginView">
-	<summary>
-HeadLoginView control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.NavigationMenu">
-	<summary>
-NavigationMenu control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.MainContent">
-	<summary>
-MainContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
 </member>
 </members>
 </doc>
