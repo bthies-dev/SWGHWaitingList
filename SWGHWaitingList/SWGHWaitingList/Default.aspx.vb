@@ -10,6 +10,6 @@
         Dim objwriter As New System.IO.StreamWriter(file_name, True)
         objwriter.Write(TextBox1.Text + ", " + TextBox2.Text + ", " + TextBox3.Text + ", " + TextBox4.Text + vbCrLf)
         objwriter.Close()
-        Response.Redirect("ThankYou.aspx")
+        Response.Redirect("~/ThankYou.aspx", True)
     End Sub
 End Class
