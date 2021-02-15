@@ -5,6 +5,8 @@
     <h2>
         Welcome to Southwest General
     </h2>
+    <asp:Image ID="Image3" runat="server" Height="350px" ImageAlign="Right" 
+        ImageUrl="~/logo.png" />
     <form id="Covid-form" name="simple-contact-form" accept-charset="utf-8" method="post" script src="form.js">
     <fieldset id="fs-frm-inputs">
 	    <label for="Phone-number">First Name<br />
@@ -31,7 +33,7 @@
 
   </form>
     <p>
-        To learn more about Southwest General visit al visit <a href="http://www.swgeneral.com" title="www.swgeneral.com">www.swgeneral.com</a>.
+        To learn more about Southwest General visit <a href="http://www.swgeneral.com" title="www.swgeneral.com">www.swgeneral.com</a>.
     </p>
 
 </asp:Content>

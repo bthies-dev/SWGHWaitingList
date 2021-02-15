@@ -4,17 +4,19 @@
   <publishProfile publishUrl="c:\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile2" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
     <file relUrl="Web.config" publishTime="02/15/2021 07:46:07" />
     <file relUrl="Site.Master" publishTime="02/15/2021 07:46:07" />
-    <file relUrl="bin/SWGHWaitingList.xml" publishTime="02/15/2021 07:58:38" />
-    <file relUrl="bin/SWGHWaitingList.pdb" publishTime="02/15/2021 07:58:38" />
+    <file relUrl="JAc2ob36.jpg" publishTime="02/15/2021 10:26:21" />
+    <file relUrl="bin/SWGHWaitingList.xml" publishTime="02/15/2021 10:32:41" />
+    <file relUrl="bin/SWGHWaitingList.pdb" publishTime="02/15/2021 10:32:41" />
+    <file relUrl="logo.png" publishTime="02/15/2021 10:32:39" />
     <file relUrl="Account/Web.config" publishTime="02/15/2021 07:46:07" />
-    <file relUrl="bin/SWGHWaitingList.dll" publishTime="02/15/2021 07:58:38" />
+    <file relUrl="bin/SWGHWaitingList.dll" publishTime="02/15/2021 10:32:41" />
     <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/15/2021 07:46:07" />
-    <file relUrl="ThankYou.aspx" publishTime="02/15/2021 07:46:07" />
+    <file relUrl="ThankYou.aspx" publishTime="02/15/2021 10:57:17" />
     <file relUrl="Global.asax" publishTime="02/15/2021 07:46:07" />
     <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/15/2021 07:46:07" />
     <file relUrl="About.aspx" publishTime="02/15/2021 07:46:07" />
-    <file relUrl="Default.aspx" publishTime="02/15/2021 07:46:07" />
+    <file relUrl="Default.aspx" publishTime="02/15/2021 10:32:09" />
     <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/15/2021 07:46:07" />
-    <file relUrl="Styles/Site.css" publishTime="02/15/2021 07:46:07" />
+    <file relUrl="Styles/Site.css" publishTime="02/15/2021 10:10:44" />
   </publishProfile>
 </publishData>

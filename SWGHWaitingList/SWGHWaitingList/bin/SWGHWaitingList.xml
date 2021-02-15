@@ -38,6 +38,14 @@ MainContent control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:SWGHWaitingList._Default.Image3">
+	<summary>
+Image3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:SWGHWaitingList._Default.TextBox1">
 	<summary>
 TextBox1 control.
