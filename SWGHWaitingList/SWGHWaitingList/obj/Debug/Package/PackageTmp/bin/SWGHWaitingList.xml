@@ -6,7 +6,48 @@ SWGHWaitingList
 </name>
 </assembly>
 <members>
-<member name="F:SWGHWaitingList.Site.HeadContent">
+<member name="P:SWGHWaitingList.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:SWGHWaitingList.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:SWGHWaitingList.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:SWGHWaitingList.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:SWGHWaitingList.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:SWGHWaitingList.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:SWGHWaitingList.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:SWGHWaitingList.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SWGHWaitingList.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SWGHWaitingList.Site.HeadContent">
 	<summary>
 HeadContent control.
 </summary>
@@ -46,7 +87,7 @@ Image3 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox1">
+</member><member name="F:SWGHWaitingList._Default.fName">
 	<summary>
 TextBox1 control.
 </summary>
@@ -54,7 +95,7 @@ TextBox1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox2">
+</member><member name="F:SWGHWaitingList._Default.lName">
 	<summary>
 TextBox2 control.
 </summary>
@@ -62,7 +103,7 @@ TextBox2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox3">
+</member><member name="F:SWGHWaitingList._Default.eAddress">
 	<summary>
 TextBox3 control.
 </summary>
@@ -70,7 +111,7 @@ TextBox3 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox4">
+</member><member name="F:SWGHWaitingList._Default.pNumber">
 	<summary>
 TextBox4 control.
 </summary>
@@ -78,50 +119,9 @@ TextBox4 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.Button1">
+</member><member name="F:SWGHWaitingList._Default.Pilot">
 	<summary>
 Button1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="P:SWGHWaitingList.My.MyWebExtension.Application">
-	<summary>
- Returns information about the current application.
- </summary>
-</member><member name="P:SWGHWaitingList.My.MyWebExtension.Computer">
-	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:SWGHWaitingList.My.MyWebExtension.User">
-	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:SWGHWaitingList.My.MyWebExtension.Request">
-	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:SWGHWaitingList.My.MyWebExtension.Response">
-	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:SWGHWaitingList.My.MyWebExtension.Log">
-	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="P:SWGHWaitingList.My.MyWebExtension.WebServices">
-	<summary>
- Provides access to WebServices added to this project.
- </summary>
-</member><member name="T:SWGHWaitingList.My.MyWebExtension">
-	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
-</member><member name="F:SWGHWaitingList.WebForm1.form1">
-	<summary>
-form1 control.
 </summary>
 	<remarks>
 Auto-generated field.

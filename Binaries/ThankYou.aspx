@@ -11,6 +11,6 @@
     <div>
     
     </div>
-    Thank you for your submission!</form>
+    Thank you for your submission!  It is recommended to close your browser tab or window.</form>
 </body>
 </html>

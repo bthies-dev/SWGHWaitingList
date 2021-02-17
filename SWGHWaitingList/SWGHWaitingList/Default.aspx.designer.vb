@@ -29,7 +29,7 @@ Partial Public Class _Default
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox1 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents fName As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''TextBox2 control.
@@ -38,7 +38,7 @@ Partial Public Class _Default
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox2 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents lName As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''TextBox3 control.
@@ -47,7 +47,7 @@ Partial Public Class _Default
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox3 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents eAddress As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''TextBox4 control.
@@ -56,7 +56,7 @@ Partial Public Class _Default
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents TextBox4 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents pNumber As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Button1 control.
@@ -65,5 +65,5 @@ Partial Public Class _Default
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Button1 As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents Pilot As Global.System.Web.UI.WebControls.Button
 End Class

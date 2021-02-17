@@ -87,7 +87,7 @@ Image3 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox1">
+</member><member name="F:SWGHWaitingList._Default.fName">
 	<summary>
 TextBox1 control.
 </summary>
@@ -95,7 +95,7 @@ TextBox1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox2">
+</member><member name="F:SWGHWaitingList._Default.lName">
 	<summary>
 TextBox2 control.
 </summary>
@@ -103,7 +103,7 @@ TextBox2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox3">
+</member><member name="F:SWGHWaitingList._Default.eAddress">
 	<summary>
 TextBox3 control.
 </summary>
@@ -111,7 +111,7 @@ TextBox3 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.TextBox4">
+</member><member name="F:SWGHWaitingList._Default.pNumber">
 	<summary>
 TextBox4 control.
 </summary>
@@ -119,7 +119,7 @@ TextBox4 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:SWGHWaitingList._Default.Button1">
+</member><member name="F:SWGHWaitingList._Default.Pilot">
 	<summary>
 Button1 control.
 </summary>
