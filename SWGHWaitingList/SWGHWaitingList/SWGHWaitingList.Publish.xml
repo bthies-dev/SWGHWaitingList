@@ -2,21 +2,21 @@
 <publishData>
   <publishProfile publishUrl="http://swdedicated-08" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="SWGHWaitingList" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="isg\b128587" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAU9l6Z1+k/0qoPHYIHdBVDwAAAAACAAAAAAADZgAAwAAAABAAAAADyF8mywrMHKrlpClyLHsOAAAAAASAAACgAAAAEAAAADDBrTUSZkuXIuJ/sNOMOqEYAAAAX9HZFjmtQGv8EyBU5BpCJ15nYIHKQqPwFAAAAJ3lQTf5UD3xCOoI0zT7lKHvfMQi" SelectedForPublish="False" />
   <publishProfile publishUrl="c:\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile2" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
-    <file relUrl="Web.config" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="Site.Master" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="JAc2ob36.jpg" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="bin/SWGHWaitingList.xml" publishTime="02/16/2021 21:24:24" />
-    <file relUrl="bin/SWGHWaitingList.pdb" publishTime="02/16/2021 21:24:24" />
-    <file relUrl="logo.png" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="Account/Web.config" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="bin/SWGHWaitingList.dll" publishTime="02/16/2021 21:24:24" />
-    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="ThankYou.aspx" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="Global.asax" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="About.aspx" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="Default.aspx" publishTime="02/16/2021 21:24:07" />
-    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/16/2021 21:09:44" />
-    <file relUrl="Styles/Site.css" publishTime="02/16/2021 21:09:44" />
+    <file relUrl="Web.config" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="Site.Master" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="JAc2ob36.jpg" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="bin/SWGHWaitingList.xml" publishTime="12/13/2021 17:50:23" />
+    <file relUrl="bin/SWGHWaitingList.pdb" publishTime="12/13/2021 17:50:23" />
+    <file relUrl="logo.png" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="Account/Web.config" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="bin/SWGHWaitingList.dll" publishTime="12/13/2021 17:50:23" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="ThankYou.aspx" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="Global.asax" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="About.aspx" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="Default.aspx" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="12/13/2021 16:50:39" />
+    <file relUrl="Styles/Site.css" publishTime="12/13/2021 16:50:39" />
   </publishProfile>
 </publishData>

@@ -6,7 +6,39 @@ SWGHWaitingList
 </name>
 </assembly>
 <members>
-<member name="P:SWGHWaitingList.My.MyWebExtension.Application">
+<member name="F:SWGHWaitingList.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SWGHWaitingList.Site.HeadLoginView">
+	<summary>
+HeadLoginView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SWGHWaitingList.Site.NavigationMenu">
+	<summary>
+NavigationMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SWGHWaitingList.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:SWGHWaitingList.My.MyWebExtension.Application">
 	<summary>
  Returns information about the current application.
  </summary>
@@ -42,38 +74,6 @@ SWGHWaitingList
 </member><member name="F:SWGHWaitingList.WebForm1.form1">
 	<summary>
 form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.HeadContent">
-	<summary>
-HeadContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.HeadLoginView">
-	<summary>
-HeadLoginView control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.NavigationMenu">
-	<summary>
-NavigationMenu control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:SWGHWaitingList.Site.MainContent">
-	<summary>
-MainContent control.
 </summary>
 	<remarks>
 Auto-generated field.
